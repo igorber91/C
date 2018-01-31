@@ -1,0 +1,6 @@
+﻿  inicio.c
+d:\dam\documentos\programación\ud 03 arrays\soluciones\tablas23\ejer23\ejer23\inicio.c(9): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+d:\dam\documentos\programación\ud 03 arrays\soluciones\tablas23\ejer23\ejer23\inicio.c(12): warning C4013: 'isdigit' sin definir; se supone que extern devuelve como resultado int
+d:\dam\documentos\programación\ud 03 arrays\soluciones\tablas23\ejer23\ejer23\inicio.c(24): warning C4013: 'getch' sin definir; se supone que extern devuelve como resultado int
+  ejer23.vcxproj -> D:\DAM\DOCUMENTOS\PROGRAMACIÓN\UD 03 Arrays\Soluciones\Tablas23\ejer23\Debug\ejer23.exe
+  ejer23.vcxproj -> D:\DAM\DOCUMENTOS\PROGRAMACIÓN\UD 03 Arrays\Soluciones\Tablas23\ejer23\Debug\ejer23.pdb (Partial PDB)
