@@ -1,0 +1,4 @@
+﻿  Principal.c
+c:\users\igor\dropbox\&dam\&&dam-diario\actividadesprogramacionc\&&solucionesdani\ud 03 arrays\actividades\ordenarburbuja\ordenarburbuja\principal.c(14): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+c:\users\igor\dropbox\&dam\&&dam-diario\actividadesprogramacionc\&&solucionesdani\ud 03 arrays\actividades\ordenarburbuja\ordenarburbuja\principal.c(58): warning C4013: 'getch' sin definir; se supone que extern devuelve como resultado int
+  OrdenarBurbuja.vcxproj -> C:\Users\igor\Dropbox\&DAM\&&DAM-Diario\actividadesProgramacionC\&&SolucionesDani\UD 03 Arrays\Actividades\OrdenarBurbuja\Debug\OrdenarBurbuja.exe
