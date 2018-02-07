@@ -1,0 +1,8 @@
+﻿  Source.c
+d:\dam\documentos\programación\ud 04 estructuras\soluciones\estructuras1.2\estructuras1.2\source.c(19): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+d:\dam\documentos\programación\ud 04 estructuras\soluciones\estructuras1.2\estructuras1.2\source.c(21): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+d:\dam\documentos\programación\ud 04 estructuras\soluciones\estructuras1.2\estructuras1.2\source.c(30): warning C4013: 'strcmp' sin definir; se supone que extern devuelve como resultado int
+d:\dam\documentos\programación\ud 04 estructuras\soluciones\estructuras1.2\estructuras1.2\source.c(71): warning C4013: 'toupper' sin definir; se supone que extern devuelve como resultado int
+d:\dam\documentos\programación\ud 04 estructuras\soluciones\estructuras1.2\estructuras1.2\source.c(71): warning C4013: 'getche' sin definir; se supone que extern devuelve como resultado int
+  Estructuras1.2.vcxproj -> D:\DAM\DOCUMENTOS\PROGRAMACIÓN\UD 04 Estructuras\Soluciones\Estructuras1.2\Debug\Estructuras1.2.exe
+  Estructuras1.2.vcxproj -> D:\DAM\DOCUMENTOS\PROGRAMACIÓN\UD 04 Estructuras\Soluciones\Estructuras1.2\Debug\Estructuras1.2.pdb (Partial PDB)
